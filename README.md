@@ -10,5 +10,3 @@ document.write ('N° de DNI = $[dni]');
 var resultado = (dni % 23);
 document.write (resultado);
 
-
-# AyudaPolicia
